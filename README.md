@@ -3,27 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Facial Recognition Project - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #4CAF50;
-        }
-        h2 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
+    
+      
 
   <h1>Facial Recognition Project</h1>
     <p>This project implements a facial recognition system using the <strong>Local Binary Pattern Histogram (LBPH)</strong> algorithm. The system detects faces, processes images, and predicts labels based on training data.</p>
